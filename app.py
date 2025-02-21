@@ -122,8 +122,7 @@ if uploaded_file is not None:
             if results_face.detections:
                 draw_blured_face(results_face)
 
-            fram = cv2.cvtColor(frame, cv2.COLOR_BGR2RGB)
-            st.image(fram, channels="RGB", use_column_width=True)
+            st.image(frame, channels="RGB", use_column_width=True)
 
             # Ajout d'une vérification pour s'assurer que la vidéo est bien écrite
 
