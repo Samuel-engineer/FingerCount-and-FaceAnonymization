@@ -106,6 +106,6 @@ if uploaded_file is not None:
                 draw_blured_face(results_face)
 
             # Affichage de la vidéo dans Streamlit
-            st.image(frame, channels="RGB", use_column_width=True)
+            st.image(frame)
 
     video.release()
