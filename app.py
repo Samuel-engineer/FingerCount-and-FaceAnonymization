@@ -106,6 +106,16 @@ if uploaded_file is not None:
                 draw_blured_face(results_face)
 
             # Affichage de la vidéo dans Streamlit
-            st.image(frame)
+            frame_rgb = cv2.cvtColor(frame, cv2.COLOR_BGR2RGB)  # Re-conversion à chaque frame
+
+            # Afficher la frame dans Streamlit
+            st.image(frame_rgb, channels="RGB", use_column_width=True)
+
+            # Bouton pour arrêter la vidéo
+            stop_video = st.button('Arrêter la vidéo')
+
+            if stop_video:
+                ret = False
+                break
 
     video.release()
