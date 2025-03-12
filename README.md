@@ -14,14 +14,12 @@ Elle peut être utilisée pour diverses applications, telles que :
 Voici une capture d'écran de l'interface de l'application en action :
 
 ![Aperçu de l'application](assets/demo_video.mp4)
+
 ## 🎥 Aperçu de l'application
 
-Voici un aperçu de l'application en action :
+Vous pouvez télécharger et visionner la vidéo ici :
 
-<video width="100%" controls>
-  <source src="https://github.com/Samuel-engineer/FingerCount-and-FaceAnonymization/assets/demo-video.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+[Voir la vidéo](https://github.com/Samuel-engineer/FingerCount-and-FaceAnonymization/raw/main/assets/demo-video.mp4)
 
 
 ## 📦 Installation
