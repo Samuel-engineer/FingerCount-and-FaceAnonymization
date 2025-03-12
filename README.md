@@ -34,8 +34,8 @@ Suivez les étapes ci-dessous pour installer et exécuter l'application sur votr
 
 1. **Clonez le repo** :
    ```bash
-   git clone https://github.com/ton-utilisateur/finger-count-face-blur.git
-   cd finger-count-face-blur
+   git clone https://github.com/ton-utilisateur/FingerCount-and-FaceAnonymization.git
+   cd FingerCount-and-FaceAnonymization
 2. **Créez un environnement virtuel (optionnel, mais recommandé)** :
    ```bash
    python -m venv venv
