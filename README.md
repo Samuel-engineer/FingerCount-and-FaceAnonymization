@@ -1,4 +1,4 @@
-#🖐️ FingerCount-and-FaceAnonymization 🎥
+###🖐️ FingerCount-and-FaceAnonymization 🎥
 
 ## 🚀 Description
 
