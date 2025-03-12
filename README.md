@@ -9,6 +9,7 @@ Elle peut être utilisée pour diverses applications, telles que :
 - L'anonymisation des visages dans des vidéos.
 - La détection des gestes des mains. (Une variante possible)
 
+
 ## 📸 Aperçu de l'application
 
 Voici une capture d'écran de l'interface de l'application en action :
@@ -36,13 +37,16 @@ Suivez les étapes ci-dessous pour installer et exécuter l'application sur votr
    ```bash
    git clone https://github.com/ton-utilisateur/FingerCount-and-FaceAnonymization.git
    cd FingerCount-and-FaceAnonymization
+   
 2. **Créez un environnement virtuel (optionnel, mais recommandé)** :
    ```bash
    python -m venv venv
    source venv/bin/activate  # Sur Windows, utilisez `venv\Scripts\activate`
+   
 3. **Installez les dépendances** :
    ```bash
    pip install -r requirements.txt
+   
 4. **Exécutez l'application Streamlit** :
    ```bash
    streamlit run src/app.py
