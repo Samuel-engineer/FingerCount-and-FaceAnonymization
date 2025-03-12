@@ -13,7 +13,7 @@ Elle peut être utilisée pour diverses applications, telles que :
 
 Voici une capture d'écran de l'interface de l'application en action :
 
-![Aperçu de l'application](assets/demo_video.mp4)
+![Aperçu de l'application](assets/demo_screenshot.png)
 
 ## 🎥 Aperçu de l'application
 
