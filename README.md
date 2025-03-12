@@ -19,8 +19,7 @@ Voici une capture d'écran de l'interface de l'application en action :
 Voici un aperçu de l'application en action :
 
 <video width="100%" controls>
-  <source src="https://github.com/Samuel-engineer/FingerCount-and-FaceAnonymization/assets/demo-video.mp4" type="video/mp4">
-
+  <source src="https://github.com/Samuel-engineer/FingerCount-and-FaceAnonymization/raw/main/assets/demo-video.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
